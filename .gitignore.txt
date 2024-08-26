@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+*.log
+
+# ASP.NET Core
+bin/
+obj/
+*.user
+*.suo
+*.swp
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db

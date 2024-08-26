@@ -9,6 +9,7 @@ dist/
 # ASP.NET Core
 bin/
 obj/
+*.dll
 *.user
 *.suo
 *.swp
